@@ -78,6 +78,7 @@ If it’s hard to debug, it’s badly written. Period.
 - GitHub: https://github.com/ranafaizan
 - LinkedIn: https://www.linkedin.com/in/faizan-shakeel-64650921a/
 - Email: ranafaizan937@email.com
+- Portfolio: https://faizan-shakeel-portfolio-vtcw.vercel.app
 
 ---
 
