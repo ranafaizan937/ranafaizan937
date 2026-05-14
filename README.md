@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Faizan
 
-Frontend-focused developer with **2+ years of real-world experience** building scalable, maintainable web apps.  
+Frontend-focused developer with **4+ years of real-world experience** building scalable, maintainable web apps.  
 I care about **clean UI, predictable state, and performance** — not tutorial-level code.
 
 ---
